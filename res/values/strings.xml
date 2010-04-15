@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">CheatSheet</string>
+<string name="players_tab">Players</string>
+<string name="drafted_players_tab">Drafted Players</string>
+<string name="draft_log_tab">Draft Log</string>
+</resources>
