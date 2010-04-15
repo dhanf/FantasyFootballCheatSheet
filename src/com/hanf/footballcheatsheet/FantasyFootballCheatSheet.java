@@ -20,7 +20,7 @@ public class FantasyFootballCheatSheet extends TabActivity {
 		mDbHelper = new CheatSheetDbAdapter(this);
         mDbHelper.open();
 		
-        // TODO: this should be driven by user rather than happening every time application loads 
+        // TODO: this should be driven by user rather than happening every time application loads
 		refreshPlayers();
 		
         // Get resources for tabs/icons
